@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = b_bellegarde@hotmail.com
+	name = barbara boston
